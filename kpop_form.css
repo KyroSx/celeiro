@@ -1,0 +1,30 @@
+* {
+    font-family: sans-serif;
+}
+.title_text {
+    color: red;
+    font-size: 30px;
+}
+
+.k_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.k_form div {
+    margin-bottom: 10px;
+}
+    
+.k_form div input {
+    width: 200px;
+}
+
+.k_form #l_rate {
+    height: 25.5px;
+}
+
+button {
+    height: 60px;
+    width: 150px;
+}
